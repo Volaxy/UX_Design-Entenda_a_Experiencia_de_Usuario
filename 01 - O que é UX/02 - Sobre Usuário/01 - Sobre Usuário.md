@@ -1,0 +1,2 @@
+Usuário é a pessoa que usa o sistema, ou até mais do que isso, como por exemplo, a conexão que faz uma "ponte" entre 2 tecnologias, como **Java** e **PHP** por exemplo, ou até um animal de estimação.
+Mas é preciso pensar no objetivo do software, ou seja, pensar no usuário final do programa, a pessoa que vai utilizar o software no final das contas.
