@@ -12,6 +12,7 @@ URL do curso -> [UX: Entenda a Experiência de Usuário](https://cursos.alura.co
 
 ## Siglas &#x1F5FA;
 * **UX** - **U**ser E**x**perience - Experiência de Usuário.
+* **VUI** - **V**oice **U**ser **I**nterface.
 
 ## 01 - O que é UX &#x1F516;
 * UX é uma sigla de Experiência de Usuário (*User Experience*).
@@ -27,3 +28,20 @@ URL do curso -> [UX: Entenda a Experiência de Usuário](https://cursos.alura.co
 * O que é o **usuário**.
 
 ***
+
+## 02 - Áreas da UX &#x1F516;
+* Don Norman criou o termo UX no começo da década de 90.
+* UX não engloba só o presente, mas a jornada inteira do usuário diante de nossos produtos.
+* Existem diversas áreas na UX como pesquisa, interface, produto, métricas, etc.
+* Arquitetura de Informação é focada em estrutura da informação e navegação.
+* Interface Visual ou Interface de Usuário (UI — *User Interface*) foca na apresentação e disposição do conteúdo, cores, acessibilidade e tipografia — pontos importantes aqui.
+* Design de Interação temos VUI (*Voice User Interface*), chatbots e microinterações relacionados dentro da área.
+* Conteúdo e Design de Som também impactam na experiência do usuário.
+
+### 01 - Don Norman
+* Quem é **Don Norman**.
+* Como surgiu o termo **UX**.
+* O que engloba a **UX**.
+
+### 02 - UX, AI e UI
+* Entender as várias áreas da **UX** através do infográfico de **Dan Saffer**.

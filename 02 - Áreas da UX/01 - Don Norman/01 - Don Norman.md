@@ -1,0 +1,2 @@
+Don Norman é um professor que trabalha no ramo de ciência cognitiva, e foi autor de vários livros sobre UX, e enquanto vice-presidente de tecnologica avançada da Apple em 93, ele criou esse termo para representar a experiência do usuário, a empresa, marca, produto ou serviço.
+UX também significa pensar no passado, que é o problema da pessoa, e como resolve-lo, e pensar no futuro, que é quando a pessoa já contratou, converteu, minha métrica está ótima, só que ela liga para reclamar, para cancelar ou manda e-mail pedindo ajuda.

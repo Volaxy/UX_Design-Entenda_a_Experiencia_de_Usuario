@@ -14,6 +14,6 @@ Suas características:
 
 Depois de concluir sua tese, Deborah levou a ideia à Target, e juntos criaram o sistema completo.
 
-[Do lado esquerdo, uma pilha com 6 argolas de diferentes cores, com um espaço entre elas. Do lado direito dois frascos vermelhos do xarope Amoxicillin 500mg, com a tampa virada para baixo. Um frasco mostra a parte da frente do rótulo e outro a parte de trás. Ambos com uma argola amarela na área da tampa](./images/img-1.jpg)
+![Do lado esquerdo, uma pilha com 6 argolas de diferentes cores, com um espaço entre elas. Do lado direito dois frascos vermelhos do xarope Amoxicillin 500mg, com a tampa virada para baixo. Um frasco mostra a parte da frente do rótulo e outro a parte de trás. Ambos com uma argola amarela na área da tampa](./images/img-1.jpg)
 
 Soluções simples podem mudar a vida do seu usuário. Use a imaginação e crie a sua também.
