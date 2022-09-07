@@ -1,0 +1,1 @@
+É preciso ter cuidado quando o time tem a mesma especialidade, pois em um projeto, seria interessante um time diverso (heterogêneo).

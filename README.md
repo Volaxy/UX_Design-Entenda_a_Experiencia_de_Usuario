@@ -46,6 +46,8 @@ URL do curso -> [UX: Entenda a Experiência de Usuário](https://cursos.alura.co
 ### 02 - UX, AI e UI
 * Entender as várias áreas da **UX** através do infográfico de **Dan Saffer**.
 
+***
+
 ## 03 - O Usuário e História da UX &#x1F516;
 * Analisar o usuário envolve descobrir suas dores, objetivos, etc.
 * O contexto e o ambiente mudam o usuário.
@@ -59,3 +61,19 @@ URL do curso -> [UX: Entenda a Experiência de Usuário](https://cursos.alura.co
 
 ### 02 - Análise de Usuário
 * Como os sentimentos do usuário impactam no produto.
+
+***
+
+## 04 - Ideias, Problemas e Times &#x1F516;
+* Design Thinking é um processo que ajuda a organizar concepção e validação de ideias.
+* Design Sprint é outro processo feito pelo Google, focado em validação de ideias em até 5 dias.
+* Dinâmicas (gamestormings) mais focadas e com objetivos claros são mais eficientes.
+* Problemas que temos são ótimas fontes de idéias para projetos.
+* Um time multidisciplinar é mais eficiente, do ponto de vista de UX, para atacar um problema.
+* Card sorting é uma técnica colaborativa focada em categorização de estruturas e navegação.
+
+### 01 - De Onde tirar Ideias
+* O que é **Design Sprint**.
+
+### 02 - Time, Kanban e Card Sorting
+* Pensar em como um time deve ser composto.
