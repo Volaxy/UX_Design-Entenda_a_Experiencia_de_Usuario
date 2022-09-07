@@ -1,0 +1,2 @@
+É importante saber também quais as características da pessoa, como por exemplo uma pessoa com mais idade. O perfil psicológico também é importante, pois caso seja algo muito invasivo e a pessoa for tímida, isso pode impactar negativamente a pessoa.
+Qual o ambiente em que a pessoa se encontra também é um fator importante a se considerar, assim como o humor do usuário. 

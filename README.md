@@ -45,3 +45,17 @@ URL do curso -> [UX: Entenda a Experiência de Usuário](https://cursos.alura.co
 
 ### 02 - UX, AI e UI
 * Entender as várias áreas da **UX** através do infográfico de **Dan Saffer**.
+
+## 03 - O Usuário e História da UX &#x1F516;
+* Analisar o usuário envolve descobrir suas dores, objetivos, etc.
+* O contexto e o ambiente mudam o usuário.
+* Altura, idade e até mesmo gostos musicais podem impactar diretamente na percepção do usuário com nossos produtos e serviços.
+* Apesar do esforço, analisar o usuário é possível e imprescindível para trazer a visão dos usuários para dentro de nossas empresas.
+* Jakob Nielsen é conhecido por ser o Guru da Usabilidade, principalmente por conta de seus estudos e heurísticas.
+* **UX não é usabilidade**.
+
+### 01 - Usuário e Contexto
+* Entender o tipo de usuário que irá usar o produto.
+
+### 02 - Análise de Usuário
+* Como os sentimentos do usuário impactam no produto.
