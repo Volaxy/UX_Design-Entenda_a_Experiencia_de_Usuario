@@ -4,7 +4,7 @@ Curso da Alura sobre o que é UX, e o que há nessa área, e como ter ideias sob
 
 ## Objetivo Final &#x1F3AF;
 
-O plano vai ser desenvolver um projeto de design focado em ajudar uma pessoa que quer arranjar companhia para viajar.
+O plano vai ser compreender a experiência do usuário em torno de um produto.
 
 URL do curso -> [UX: Entenda a Experiência de Usuário](https://cursos.alura.com.br/course/fundamentos-ux-entendendo-experiencia-usuario)
 
@@ -77,3 +77,15 @@ URL do curso -> [UX: Entenda a Experiência de Usuário](https://cursos.alura.co
 
 ### 02 - Time, Kanban e Card Sorting
 * Pensar em como um time deve ser composto.
+
+***
+
+## 05 - Entregáveis e Ferramentas &#x1F516;
+* Sitemap, wireframe, protótipo e storyboard são exemplos de entregáveis de UX.
+* Excel, formulários e Figma são exemplos de ferramentas relacionadas a área de UX.
+* Zen voting é uma forma de evitar o viés HIPPO (Opinião da Pessoa Mais Bem Paga).
+
+### 01 - Entregáveis de UX
+* Tipos de entregáveis.
+* Ferramentas de UX.
+* Softwares utilizados no desenvolvimento de UX.
